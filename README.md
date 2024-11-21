@@ -98,6 +98,6 @@ Kilaru, Babji and Rana Shuvendu (2022). “Stationary Object Detection using Ret
 
 ## **🌐 Socials**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-reddy-kallam-770993188/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babji-kilaru/) 
 
  
