@@ -21,6 +21,62 @@ Bachelor's in Computer Science and Engineering | GPA : 3.6/4.0 <br/>
 nology, Computer Organization and Architecture, Compiler Design, Introduction to Machine learning , Operating
 systems & Digital Image Processing.
 
+## 💼**Work Experience**
+
+**Graduate Research Assistant** <br/>
+**University of Missouri-Kansas City** | Aug 2022 – May 2023
+
+**Data Engineer** <br/>
+**KPIT Technologies** | May 2020 – Jul 2022
+
+
+## 🚀**Projects**
+
+**Weather Data Analysis and Visualization** | Jan 2024 - May 2024<br/>
+Description:
+- Conducted comprehensive analysis of historical weather data, identifying trends and seasonal patterns to inform decision-making in sectors like agriculture and urban planning.
+- Developed a data pipeline using AWS services (Lambda, S3, Athena) for efficient data collection, storage, and processing from various weather data sources.
+- Created interactive visualizations and dashboards in AWS QuickSight and Tableau to effectively communicate insights and key metrics to stakeholders.
+- Implemented machine learning models for weather forecasting, utilizing Amazon SageMaker to predict future weather patterns based on historical data.
+
+**Image Captioning Generator** | Aug 2023 - Dec 2023<br/>
+Description:
+- Designed a deep learning model (LSTM) utilizing NumPy, CNN, and Keras, achieving an outstanding average accuracy rate of 95%. Implemented image-to-text conversion, enhancing accessibility for visually impaired individuals.
+- Processed about 10,000 images and stored recognized text efficiently in a Firebase database as a JSON file. Ensured seamless data retrieval and utilization for making visual information accessible.
+- Integrated user-friendly front-end technologies, including HTML5, CSS3, JavaScript, and NodeJS resulting in an intuitive and visually appealing user interface. Achieved a 30% improvement in user engagement through effective front-end design.
+- Implemented cutting-edge machine learning techniques, utilizing Convolutional Neural Networks (CNN) for image processing within the model. Contributed to the creation of an innovative solution aimed at bridging accessibility gaps for the visually impaired community.
+
+**Health Care Exploratory Data Analysis(EDA)** | Jan 2023 - May 2023<br/>
+Description:
+- Conducted comprehensive EDA on large healthcare datasets, leveraging Python (Pandas, NumPy) for data cleaning and preprocessing, addressing missing values and outliers.
+- Utilized SQL for querying and extracting data from relational databases, integrating multiple datasets for robust analysis.
+- Applied Apache Spark for distributed data processing to efficiently handle large volumes of healthcare records, ensuring scalability in analysis.
+- Designed complex visualizations using Matplotlib, Seaborn, and created interactive dashboards in Tableau, showcasing trends in patient demographics, treatment outcomes, and readmission patterns.
+- Employed geospatial visualizations and heatmaps to highlight regional variations in patient readmissions and treatment efficacy, providing actionable insights for healthcare policy improvements.
+- Developed and evaluated predictive models (e.g., Random Forest, Logistic Regression) achieving an accuracy rate of over 85% in predicting patient readmissions based on historical data.
+
+**IoT Sensor Data Analysis for Soil Moisture** | Aug 2022 - Dec 2022<br/>
+Description:
+- Developed an IoT-based system to monitor soil moisture levels using an ultrasonic sensor, with data transmitted to Azure for real-time analysis and visualization. Developed scripts in Arduino IDE/Python to read sensor data and convert it to soil moisture levels. 
+- Employed NumPy and Pandas libraries for data manipulation and analysis of soil moisture levels. 
+- Implemented data visualization techniques using Matplotlib and Plotly to create insightful graphs and charts, aiding in the interpretation of sensor data. 
+- Leveraged Azure Data Lake Storage (ADLS) for storing large volumes of sensor data and Azure Virtual Machines for running data processing scripts. 
+- Applied Pyspark and Hadoop for large-scale data processing, ensuring efficient handling of the collected IoT data.
+- Conducted machine learning analysis using Scikit-Learn, focusing on Regression and Classification techniques to predict soil moisture trends. 
+- Created interactive dashboards with Tableau and Power BI to present data findings to stakeholders, enabling data-driven decision-making. 
+- Implemented Azure Data Factory (ADF) for orchestrating data workflows and automating ETL processes, enhancing data pipeline efficiency and reliability. 
+- Leveraged Azure Synapse Analytics for comprehensive data integration, management, and analytics, providing powerful insights and optimizing data processing performance.
+
+**Trend Analysis of YouTube Videos** | Aug 2022 - Dec 2022<br/>
+Description:
+- Conducted an in-depth trend analysis of YouTube videos, identifying and analyzing trending topics, content performance, and viewer engagement over time, providing actionable insights.
+- Architected a real-time data pipeline by implementing Apache Kafka for continuous data streaming and ingestion, ensuring seamless and efficient data collection and processing.
+- Leveraged Apache Spark for high-performance data processing, including comprehensive data cleaning, transformation, and feature extraction to prepare data for advanced analysis.
+- Performed Exploratory Data Analysis (EDA) to uncover patterns in viewer behavior and content popularity, utilizing Spark MLlib to execute advanced analytics, including trend forecasting and sentiment analysis of video comments.
+- Developed dynamic dashboards and visualizations in Tableau to effectively present insights, key trends, and performance metrics to stakeholders.
+- Utilized SQL for querying and manipulating large datasets, ensuring accurate data extraction for further analysis.
+- Applied Python for automating data processing workflows and implementing custom analysis scripts for more precise trend identification.
+- Collaborated with cross-functional teams to translate data findings into strategic recommendations, driving content optimization and audience engagement initiatives.
 
 ## 🛠️**Technical Skills**
 | Programming Languages  | : | Python, R, Scala, SQL, & PL/SQL|
@@ -35,45 +91,12 @@ systems & Digital Image Processing.
 | IDE & OS | : | Visual Studio Code, NetBeans, Eclipse Jupyter Notebook, Sublime, PyCharm, & Linux, Windows, MacOS.  |
 
 
-**Publications**
+## 📚**Publications**
 
-Published a research article on IJETER Journal on my Project - Predictive Analytics of India in Olympics using       Machine Learning Algorithms IJETER
+Kilaru, Babji and Rana Shuvendu (2022). “Stationary Object Detection using RetinaNet and Kalman Filter DOI:10.1109/ICICCSP53532.2022.9862392”.
+<a href="https://ieeexplore.ieee.org/document/9862392" target="blank"><img align="center" src="https://github.com/Kilaru-Babji/Kilaru-Babji/blob/main/download.jpeg" alt="" height="30" width="30" /></a>
 
-💼**Work Experience**
-
-Tata Consultancy Services, India
-
-Assistant Systems Engineer                                                                                                                                          
-
-Aug 2021 – Dec 2022   
-- Led development efforts in a critical project for Healthcare Service Corporation (HCSC), focusing on enhancing the healthcare and insurance framework to improve service efficiency and client satisfaction.
-- Conducted thorough analysis to identify areas for modification in existing programs, resulting in the targeted and strategic redevelopment of core system components.
-- Implemented efficient code changes, optimizing system performance and reliability, and ensuring seamless integration with existing infrastructure.
-- Developed and integrated robust features using Java Spring Boot, leveraging Microservices architecture to enhance system scalability and facilitate the deployment of new services.
-- Collaborated closely with cross-functional teams to align project objectives with business goals, ensuring timely and successful delivery of project milestones.
-
-
-🚀**Projects**
-
-**Nine Men’s Morris**
-
-Technologies Used: Python, OOPs, Pygame, Minimax, UI/UX Design, Pytest, Git/GitHub
-
-Description:
-- Designed and implemented algorithms for game mechanics, including piece movement, mill detection, and AI opponent behavior. Utilized object-oriented principles to create modular and maintainable codebase, facilitating future enhancements and bug fixes.
-- Applied analytical skills and strategic thinking to develop AI algorithms for gameplay, contributing to the creation of challenging and engaging opponents. Actively participated in implementing various game features, such as move validation, player interaction, and game state management, to deliver a polished and enjoyable gaming experience.
-
-
-**Predictive Analytics of India in Olympics using Machine Learning Algorithms**   
-
-Technologies Used: Python, KNN, Sci-kit learn, Flask, Numpy, Pandas, Matplotlib, Jupyter Notebook
-
-Description:
-- Orchestrated the Big Data Recruitment Project, leveraging advanced analytics to revolutionize recruitment processes by identifying key job families and roles, enhancing organizational understanding of data-driven objectives through comprehensive analysis of vast datasets to uncover patterns and trends.
-- Utilized sophisticate data analytics techniques to categorize highly valued skills and competencies within the job market, enabling targeted recruitment strategies and informed decision-making by defining job families according to required expertise levels.
-
-
- **🌐 Socials**
+## **🌐 Socials**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-reddy-kallam-770993188/) 
 
