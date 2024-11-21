@@ -1,5 +1,5 @@
 
-<img src="https://github.com/deepthireddy246/deepthireddy246/blob/main/Deepthi%20Reddy%20Kallam.png" alt="banner ">
+<img src="https://github.com/Kilaru-Babji/Kilaru-Babji/blob/main/banner.png" alt="banner ">
 
 #  Hello, I'm Babji Kilaru!
 
