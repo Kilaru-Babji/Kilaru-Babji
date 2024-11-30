@@ -11,12 +11,14 @@
 
 **University of Missouri-Kansas City** <br/>
 Master's in Computer Science | GPA : 3.68/4.0 <br/>
+Aug 2022 - May 2024 <br/>
 - Coursework: Principles of Big Data Management, Advanced Operating Systems , Design and Analysis of Algo-
 rithms, Network Architecture , Cloud Computing, Parallel Algorithms, Formal Software Specifications & Internet
 of Things.
 
 **SRM University, AP** <br/>
 Bachelor's in Computer Science and Engineering | GPA : 3.6/4.0 <br/>
+Jul 2018 - May 2022 <br/>
 - Coursework: Python programming, Data Structures and Algorithms, Object Oriented Programming, Web Tech-
 nology, Computer Organization and Architecture, Compiler Design, Introduction to Machine learning , Operating
 systems & Digital Image Processing.
