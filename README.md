@@ -3,7 +3,7 @@
 
 #  Hello, I'm Babji Kilaru!
 
-&emsp; Welcome to my GitHub profile! I'm a Innovative Data Engineer with 3 years of experience in designing and implementing data solutions to support data-driven decision-making. Proficient in data acquisition, ETL processes, data modeling, and cloud data infrastructure management. Skilled in leveraging Python, SQL, and big data tools like Apache Spark and Hadoop to build scalable pipelines and optimize data workflows. Experienced with cloud platforms such as AWS for data warehousing, Redshift clusters, and on-premises to cloud migrations. Adept at using Agile methodologies for project delivery, collaborating with cross-functional teams, and ensuring data quality for analytics and reporting.
+&emsp; Welcome to my GitHub profile! I'm a Innovative Data Analyst with 3 years of experience in designing and implementing data solutions to support data-driven decision-making. Proficient in data acquisition, ETL processes, data modeling, and cloud data infrastructure management. Skilled in leveraging Python, SQL, and big data tools like Apache Spark and Hadoop to build scalable pipelines and optimize data workflows. Experienced with cloud platforms such as AWS for data warehousing, Redshift clusters, and on-premises to cloud migrations. Adept at using Agile methodologies for project delivery, collaborating with cross-functional teams, and ensuring data quality for analytics and reporting.
 
 ## 📚**Education**
 
