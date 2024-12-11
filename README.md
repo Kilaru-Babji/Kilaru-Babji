@@ -25,11 +25,14 @@ systems & Digital Image Processing.
 
 ## 💼**Work Experience**
 
+**Data Analyst** <br/>
+**Amgen** | Jun 2024 – Current
+
 **Graduate Research Assistant** <br/>
 **University of Missouri-Kansas City** | Aug 2022 – May 2023
 
 **Data Engineer** <br/>
-**KPIT Technologies** | May 2020 – Jul 2022
+**SeaGate** | May 2020 – Jul 2022
 
 
 ## 🚀**Projects**
