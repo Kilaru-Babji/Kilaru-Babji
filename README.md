@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Kilaru-Babji/Kilaru-Babji/blob/main/banner.png" alt="banner ">
+<img src="https://github.com/Kilaru-Babji/Kilaru-Babji/blob/main/banner1.png" alt="banner ">
 
 #  Hello, I'm Babji Kilaru!
 
